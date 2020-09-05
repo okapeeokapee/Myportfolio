@@ -9,7 +9,8 @@ table{
   }.in{font-size: 18px; line-height: 30px;}body{background: #eeeeee;margin: 0;}
   .rid{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double ; border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;
   background: #99ffff;}.dod{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double ; border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;background: #99ffff;}.fi{font-size: 20px;list-style: none;display: flex;}.ta{border: solid 3px; width: 500px;}th{width: 100px;} td{width: 250px;}
-  span{display: block;}}
+  span{display: block;}
+  .kindle{width: 300px; height: 100px; background: white;margin: 0 auto; border: solid 3px;color: gray;}.kindleimg{width: 100px;height: 100px;}.kinlink{color: black;  1px; margin:10px ;}}
 
 @media screen and (min-width: 600px){
   .mo{margin:0 50px -30px 40px; font-weight: bold;}
@@ -18,7 +19,8 @@ table{
   .po{text-align: center; font-size: 40px; padding: 10px; margin: 10px auto; border: 5px double ; border-radius: 10px; background: #99ffcc; font-weight: bold
   }.in{font-size: 18px; line-height: 30px;}body{background: #eeeeee;margin: 0;}
   .rid{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double;
-    background: #99ffff;  border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;}.dod{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double ; border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;background: #99ffff;}.ri{margin-left:200px;} .fi{font-size: 20px;list-style: none;display: flex;}th{width: 100px;} td{width: 350px;}}
+    background: #99ffff;  border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;}.dod{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double ; border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;background: #99ffff;}.ri{margin-left:200px;} .fi{font-size: 20px;list-style: none;display: flex;}th{width: 100px;} td{width: 350px;}
+    .kindle{width: 500px; height: 200px; background: white;margin: 0 auto; border: solid 3px;color: gray;}.kindleimg{width: 200px;height: 200px;}.kinlink{color: black;  margin:30px auto ;}}
 
 @media screen and (min-width:1000px){
   .mo{margin:0 50px -30px 40px; font-weight: bold;}
@@ -29,6 +31,7 @@ table{
   .rid{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double ;background: #99ffff; border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;}.dod{font-size: 35px; font-weight: bold; margin:20px auto 20px auto; border: 5px double ; border-radius: 10px; width: 300px; padding: 8px 0 8px 0; text-align: center;background: #99ffff;}
   .ri{margin-left:200px;} .fi{font-size: 20px;list-style: none;display: flex;}
   th{width: 200px;} td{width: 350px;}
+  .kindle{width: 300px; height: 100px; background: white;margin: 0 auto; border: solid 3px;color: gray;}.kindleimg{width: 100px;height: 100px;}.kinlink{color: black;  1px;display: block;}
 }
 
 

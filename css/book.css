@@ -4,6 +4,7 @@ body{
   text-align: center;}
 .menu{display: flex;; font-size: 20px; justify-content: space-between; }
 .mokuzi{font-size: 20px; text-align: center; font-weight: bold;}
+th{width: 200px;}
 
 @media screen and (max-width:600px){
   

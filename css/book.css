@@ -11,7 +11,7 @@ table{margin: auto;}span{display: block; text-align: center;}
 .haba{margin:4px auto ;}
 
 
-@media screen and (max-width:600px){
+@media screen and (min-width:600px){
 
 }
 

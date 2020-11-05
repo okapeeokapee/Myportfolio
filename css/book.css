@@ -1,12 +1,9 @@
 body{margin: 0; background: #eeeeee;}.main{text-align: center;}
-
 .menu{display: flex;; font-size: 20px; justify-content: space-between; }
-
 .mokuzi{font-size: 20px; text-align: center; font-weight: bold;}
-
 table{margin: auto;}span{display: block; text-align: center;}
-
 .haba{margin:4px auto;}
+.kesu{display: none;}
 
 
 @media screen and (min-width:600px){

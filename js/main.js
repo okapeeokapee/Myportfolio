@@ -41,6 +41,9 @@
   document.getElementById('nyu').addEventListener('click', () =>{
     nyu1.classList.toggle('kesu');
   });
+  document.getElementById('zibuaya').addEventListener('click', () =>{
+    zibuaya1.classList.toggle('kesu');
+  });
 
 }
 

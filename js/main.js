@@ -38,6 +38,9 @@
   document.getElementById('mahokon').addEventListener('click', () =>{
     mahokon1.classList.toggle('kesu');
   });
+  document.getElementById('nyu').addEventListener('click', () =>{
+    nyu1.classList.toggle('kesu');
+  });
 
 }
 

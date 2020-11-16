@@ -32,6 +32,9 @@
   document.getElementById('hitowo').addEventListener('click', () =>{
     hitowo1.classList.toggle('kesu');
   });
+  document.getElementById('hannnou').addEventListener('click', () =>{
+    hannnou1.classList.toggle('kesu');
+  });
 
 }
 

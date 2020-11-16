@@ -29,6 +29,9 @@
   document.getElementById('mochi').addEventListener('click', () =>{
     mochi1.classList.toggle('kesu');
   });
+  document.getElementById('hitowo').addEventListener('click', () =>{
+    hitowo1.classList.toggle('kesu');
+  });
 
 }
 
